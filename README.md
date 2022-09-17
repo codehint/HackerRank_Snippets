@@ -1,2 +1,2 @@
 # HackerRank_Snippets
-This repository is meant to have the code for practicing hackerrank problems
+This repository contains solved challenges that can be found on hacker rank.
