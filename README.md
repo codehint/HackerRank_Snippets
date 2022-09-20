@@ -1,2 +1,2 @@
 # HackerRank_Snippets
-This repository contains solved challenges that can be found on hacker rank.
+This repository contains solved challenges from hacker rank.
